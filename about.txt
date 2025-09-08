@@ -1,0 +1,3 @@
+name:sharon darla
+course:BCA
+things i learned from github: handling the files and operations of the github
